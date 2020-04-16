@@ -2,6 +2,8 @@
 
 A bit of introduction - Storylens.io is a platform that lets you build a beautiful blog/website without writing much code. 
 
+
+![alt text]
 (https://res.cloudinary.com/storylens/image/upload/v1587023153/Screenshot_2020-04-16_at_1.14.24_PM.png "Storylens.io Main page")
 
 
