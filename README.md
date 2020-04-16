@@ -27,7 +27,7 @@ The modules we've developed include
 
 ### Is there a demo of its implementation?
 
-You can create a free blog over at storylens.io and see the editor for yourself. 
+You can create a free blog over at [storylens.io](https://storylens.io) and see the editor for yourself. 
 
 ![Storylens.io Editor](https://res.cloudinary.com/storylens/image/upload/v1587026283/ezgif-1-7257deec3671.gif)
 
