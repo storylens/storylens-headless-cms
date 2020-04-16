@@ -13,11 +13,13 @@ While working on that front, we've decided to open source our backend for the gr
 The modules we've developed include
 1. Users
 2. Story (Publish/edit/delete)
-3. Tags
-4. Categories
-5. Blog Settings
-6. Templates
-7. Email subscriptions etc.
+3. Like/Bookmark/Comment/Follow
+4. Tags
+5. Categories
+6. Blog Settings
+7. Templates
+8. Email subscriptions etc.
+9. Basic Analytics and suggestions
 
 ### What's in the pipeline?
 1. Premium Analytics and stats
