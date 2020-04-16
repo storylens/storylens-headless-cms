@@ -3,8 +3,7 @@
 A bit of introduction - Storylens.io is a platform that lets you build a beautiful blog/website without writing much code. 
 
 
-![alt text]
-(https://res.cloudinary.com/storylens/image/upload/v1587023153/Screenshot_2020-04-16_at_1.14.24_PM.png "Storylens.io Main page")
+![alt text](https://res.cloudinary.com/storylens/image/upload/v1587023153/Screenshot_2020-04-16_at_1.14.24_PM.png "Storylens.io Main page")
 
 
 While working on that front, we've decided to open source our backend for the greater good. It's basically a Content Management System written in Node.js, Express, MongoDB with a layer of redis for caching.
