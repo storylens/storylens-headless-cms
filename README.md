@@ -1,6 +1,6 @@
 ## Storylens Nodejs Headless CMS
 
-A bit of introduction - [https://storylens.io](Storylens.io) is a platform that lets you build a beautiful blog/website without writing much code. 
+A bit of introduction - [Storylens.io](https://storylens.io) is a platform that lets you build a beautiful blog/website without writing much code. 
 
 
 ![Storylens.io mainpage](https://res.cloudinary.com/storylens/image/upload/v1587023153/Screenshot_2020-04-16_at_1.14.24_PM.png "Storylens.io Main page")
@@ -24,10 +24,6 @@ The modules we've developed include
 2. Integrations
 3. CLI support for creation of new project
 
-### What's left in the cleanup?
-1. Documentation - There's a bit of work to be done on this front.
-2. Add necessary comments and instructions
-3. CLI support
 
 ### Is there a demo of its implementation?
 
@@ -37,7 +33,10 @@ You can create a free blog over at storylens.io and see the editor for yourself.
 
 
 ### When can I see the code here?
-We're expecting to finish cleaning up by the first week of May. 
+We're expecting to finish cleaning up by the first week of May. Right now, we're focusing a few things: 
+1. Documentation - There's a bit of work to be done on this front.
+2. Add necessary comments and instructions
+3. CLI support
 
 ### Do you need help?
 Yes, we definitely do! We're in the process of cleaning up our code. We'd love a bit of help from the community to speed things up. If anyone is interested in looking at the code and giving us a helping hand, we'd definitely appreciate it. Just ping us at dev@storylens.io. We'll add you to the repo.
