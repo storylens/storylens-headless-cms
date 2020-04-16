@@ -1,0 +1,3 @@
+## Storylens Nodejs Headless CMS
+
+Storylens helps you build a fully functional website/blog without writing any code. Oh, we're open source and innovative! Our aim is to create a platform where users can drag and drop UI elements/components and create beautifully crafted web applications. The open source environment allows developers to publish their components on our platform. Novice users can then drag them into their project. A win-win scenario for all. Apart from that, we also offer an intuitively designed cloud platform to set up and host everything. You can read more about us at storylens.io
